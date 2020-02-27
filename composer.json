@@ -1,5 +1,5 @@
 {
-    "name": "laravel/lumen",
+    "name": "tsv-zorneding-1920/netlify-cms-oauth-provider-php",
     "description": "The Laravel Lumen Framework.",
     "keywords": ["framework", "laravel", "lumen"],
     "license": "MIT",
@@ -16,18 +16,9 @@
         "phpunit/phpunit": "^8.0"
     },
     "autoload": {
-        "classmap": [
-            "database/seeds",
-            "database/factories"
-        ],
         "psr-4": {
             "App\\": "app/"
         }
-    },
-    "autoload-dev": {
-        "classmap": [
-            "tests/"
-        ]
     },
     "config": {
         "preferred-install": "dist",

@@ -1,4 +1,4 @@
-# Netlify-cms-oauth-provider-python
+# Netlify-cms-oauth-provider-php
 
 [netlify-cms](https://www.netlifycms.org/) has its own github OAuth client. This is a php implementation based on the [Node.js](https://github.com/vencax/netlify-cms-github-oauth-provider) version.
 
